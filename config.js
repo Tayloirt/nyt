@@ -1,0 +1,4 @@
+var config = {
+  NYT_KEY : 'PhCCox4GRT3113RAJOBWwCgpLMR2MnBn',
+  GOOGLE_BOOKS_KEY : 'AIzaSyAjiuNifAd8lShIA66NsJUQunIr5cUdpHo'
+}
